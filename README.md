@@ -7,6 +7,6 @@ A side project focused on implementing a GTPS in Zig. It was developed for Linux
 ## Installation
 
 - Install Zig (preferably v0.15.2).
-- ```git clone https://github.com/pessiuff/zig_gtps.git```
+- ```git clone https://github.com/pessiuff/zigps.git```
 - (Optional) Compile ENet yourself and place it into ```c_lib```. There is a pre-compiled version inside but I don't recommend using any precompiled executable or library.
-- Run ```./build_run.sh``` in the ```zig_gtps``` directory.
+- Run ```./build_run.sh``` in the ```zigps``` directory.
